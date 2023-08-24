@@ -1,3 +1,4 @@
+$fn = 128;
 projection() {
   translate([0,150,0]) {
     rotate([0,0,-90]) {
